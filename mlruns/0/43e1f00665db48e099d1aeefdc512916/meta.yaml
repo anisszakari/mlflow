@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anisszakari/Documents/mlflow/mlruns/0/43e1f00665db48e099d1aeefdc512916/artifacts
+end_time: 1656180066260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 43e1f00665db48e099d1aeefdc512916
+run_uuid: 43e1f00665db48e099d1aeefdc512916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656180060520
+status: 3
+tags: []
+user_id: anisszakari
