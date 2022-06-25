@@ -1,4 +1,4 @@
-artifact_path: model
+artifact_path: best model
 flavors:
   python_function:
     env: conda.yaml
@@ -9,6 +9,6 @@ flavors:
     pickled_model: model.pkl
     serialization_format: cloudpickle
     sklearn_version: 0.23.2
-model_uuid: 8d1756f86d0f42748b2aa883ad9611fd
-run_id: 43e1f00665db48e099d1aeefdc512916
-utc_time_created: '2022-06-25 18:01:00.555207'
+model_uuid: 91da5ac865c9459290f0b0ab69b66a4b
+run_id: ebe1042ac4b8487db4caeacc26432936
+utc_time_created: '2022-06-25 19:48:52.644694'
